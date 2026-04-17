@@ -1,6 +1,6 @@
 # 🔐SOC Workflow: Multiple Failed Login Attempts
 
-**🧠 Simulated scenario** — This is a portfolio project showing how I would investigate and respond
+**Simulated scenario** — This is a portfolio project showing how I would investigate and respond
 to a brute force alert as a SOC analyst. All usernames, IPs, and timestamps are fictional
 but based on realistic SOC patterns.
 
