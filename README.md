@@ -31,7 +31,7 @@ The goal is not just to pass the exam, but to build the thinking and documentati
 ## Certification target
 
 **SC-200: Microsoft Security Operations Analyst**
-Expected completion: June 2025
+Expected completion: June 2026
 
 ---
 
